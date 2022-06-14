@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">NEOS</string>
+
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Здравствуйте,</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu -->
+    <string name="menu_recognition">Распознавание</string>
+    <string name="menu_training">Обучение</string>
+    <string name="menu_settings">Настройки</string>
+
+    <!-- Login -->
+    <string name="login_text_input_api_key_hint">Введеите ваш API-ключ</string>
+    <string name="login_button_login_text">Войти</string>
+    <string name="login_error_message_wrong_api_key">API-ключ неверен, проверьте правильность ввода</string>
+
+    <!-- Common items -->
+    <string name="common_scrollpicker_item">A</string>
+
+    <!-- Recognition -->
+
+    <!-- Training -->
+    <string name="training_user_model_download_finished_text">Пользовательская модель загружена</string>
+    <string name="training_user_model_deleted_text">Пользовательская модель удалена</string>
+
+
+    <!-- Settings -->
+    <string name="settings_train_button_text">Обучение</string>
+    <string name="settings_download_button_text">Скачать модель</string>
+    <string name="settings_delete_button_text">Удалить модель</string>
+
+    <!-- Shortcuts -->
+    <string name="shortcuts_main_short_label">NEOS</string>
+    <string name="shortcuts_main_long_label">NEOS</string>
+    <string name="shortcuts_main_disabled">NEOS Inactive</string>
+
+    <!-- Preferences -->
+    <string name="preference_file_key">com.neos.Preferences</string>
+    <string name="preference_api_key">com.neos.ApiKey</string>
+    <string name="preference_usr_model_path">com.neos.UserModelPath</string>
+
+    <!-- Trash -->
+    <string name="text_input_login_hint">login</string>
+    <string name="text_input_password_hint">password</string>
+
+    <string name="movie_image_content_description">Movie image</string>
+    <string name="movie_name">Movie name</string>
+    <string name="movie_card_name">Movie name</string>
+    <string name="movie_card_genre">Movie genre</string>
+    <string name="movie_card_year">Movie year</string>
+    <string name="movie_description">Movie description</string>
+    <string name="movie_actors">Movie actors</string>
+
+    <string name="global_username">com.ictis.pdmp.Username</string>
+
+</resources>

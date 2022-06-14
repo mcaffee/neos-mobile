@@ -1,0 +1,16 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="NEOS"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_gallery"
+        android:shortcutShortLabel="@string/shortcuts_main_short_label"
+        android:shortcutLongLabel="@string/shortcuts_main_long_label"
+        android:shortcutDisabledMessage="@string/shortcuts_main_disabled">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.ictis.neos"
+            android:targetClass="com.ictis.neos.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <!-- Specify more shortcuts here. -->
+</shortcuts>
